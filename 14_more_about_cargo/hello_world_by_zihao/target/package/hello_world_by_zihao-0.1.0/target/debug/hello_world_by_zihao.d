@@ -1,0 +1,1 @@
+E:\LearningNotes\Rust\Code\14_more_about_cargo\hello_world_by_zihao\target\package\hello_world_by_zihao-0.1.0\target\debug\hello_world_by_zihao.exe: E:\LearningNotes\Rust\Code\14_more_about_cargo\hello_world_by_zihao\target\package\hello_world_by_zihao-0.1.0\src\main.rs
