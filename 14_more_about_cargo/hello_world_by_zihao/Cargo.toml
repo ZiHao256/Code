@@ -1,0 +1,11 @@
+[package]
+name = "hello_world_by_zihao"
+authors = ["2638779206@qq.com"]
+version = "0.1.0"
+edition = "2021"
+description = "zihao's first crate published!"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

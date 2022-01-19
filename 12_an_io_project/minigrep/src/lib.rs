@@ -41,13 +41,18 @@ pub struct Config {
 }
 
 impl Config {
-    pub fn new(args: &Vec<String>) -> Result<Config, String> {
-        if args.len() < 3 {
-            return Err(String::from("Not Enough Arguments"));
-        }
+    pub fn new<'a>(mut args: env::Args) -> Result<Config, &'a str> {
+        args.next();
 
-        let filename = args[1].clone();
-        let query = args[2].clone();
+        let filename = match args.next() {
+            Some(filename) => filename,
+            None => return Err("Not found filename"),
+        };
+
+        let query = match args.next() {
+            Some(arg) => arg,
+            None => return Err("Not found query"),
+        };
 
         let case_sensitive = env::var("CASE_INSENSITIVE").is_err();
 
@@ -64,30 +69,24 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
 
     println!("the lines containing query is :");
 
-    if config.case_sensitive{
+    if config.case_sensitive {
         for line in sensitive_search(&config.query, &content) {
             println!("{}", line);
-        }        
-    }else{
+        }
+    } else {
         for line in insensitive_search(&config.query, &content) {
             println!("{}", line);
-        }      
+        }
     }
-
 
     Ok(())
 }
 
 fn sensitive_search<'a>(query: &str, content: &'a str) -> Vec<&'a str> {
-    let mut ans: Vec<&str> = Vec::new();
-
-    for line in content.lines() {
-        if line.contains(query) {
-            ans.push(line);
-        }
-    }
-
-    ans
+    content
+        .lines()
+        .filter(|line| line.contains(query))
+        .collect()
 }
 
 fn insensitive_search<'a>(query: &str, content: &'a str) -> Vec<&'a str> {
