@@ -5,9 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/src/hello/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/merge_sort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/address/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/src/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/merge_sort/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/address/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
