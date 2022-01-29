@@ -1,0 +1,1 @@
+E:\LearningNotes\Rust\Code\17_oop\oo_design_patterns\blog\target\debug\blog.exe: E:\LearningNotes\Rust\Code\17_oop\oo_design_patterns\blog\src\lib.rs E:\LearningNotes\Rust\Code\17_oop\oo_design_patterns\blog\src\main.rs
