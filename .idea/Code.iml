@@ -5,13 +5,21 @@
       <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/src/hello/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/merge_sort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/func_pointer2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/function_pointer/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/address/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/extern_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/static_valuable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/return_closure/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/src/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/merge_sort/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/address/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/extern_demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/static_valuable/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/function_pointer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/func_pointer2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/return_closure/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

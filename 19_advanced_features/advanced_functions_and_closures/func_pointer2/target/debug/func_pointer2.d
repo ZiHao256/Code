@@ -1,0 +1,1 @@
+E:\LearningNotes\Rust\Code\19_advanced_features\advanced_functions_and_closures\func_pointer2\target\debug\func_pointer2.exe: E:\LearningNotes\Rust\Code\19_advanced_features\advanced_functions_and_closures\func_pointer2\src\main.rs
