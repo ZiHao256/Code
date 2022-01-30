@@ -1,0 +1,1 @@
+E:\LearningNotes\Rust\Code\19_advanced_features\advanced_trait\default_type_parameters\target\debug\default_type_parameters.exe: E:\LearningNotes\Rust\Code\19_advanced_features\advanced_trait\default_type_parameters\src\main.rs

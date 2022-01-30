@@ -11,6 +11,12 @@
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/extern_demo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/static_valuable/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/return_closure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/default_type_parameters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/new_type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/remove_qiyi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/super_trait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/消歧义/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/fully_qualified_syntax/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/src/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/merge_sort/target" />
@@ -20,6 +26,12 @@
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/function_pointer/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/func_pointer2/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/return_closure/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/default_type_parameters/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/消歧义/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/remove_qiyi/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/fully_qualified_syntax/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/super_trait/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/new_type/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
