@@ -1,0 +1,5 @@
+var searchIndex = JSON.parse('{\
+"hello":{"doc":"","t":[3,3,11,11,11,11,11,11,11,12,11,11,11,11,11,11,11,11,11],"n":["PoolCreationError","ThreadPool","borrow","borrow","borrow_mut","borrow_mut","execute","from","from","info","into","into","new","try_from","try_from","try_into","try_into","type_id","type_id"],"q":["hello","","","","","","","","","","","","","","","","","",""],"d":["","","","","","","","","","","","","创建线程池。","","","","","",""],"i":[0,0,1,2,1,2,2,1,2,1,1,2,2,1,2,1,2,1,2],"f":[null,null,[[]],[[]],[[]],[[]],[[]],[[]],[[]],null,[[]],[[]],[[["usize",15]],[["result",4,["threadpool","poolcreationerror"]],["threadpool",3],["poolcreationerror",3]]],[[],["result",4]],[[],["result",4]],[[],["result",4]],[[],["result",4]],[[],["typeid",3]],[[],["typeid",3]]],"p":[[3,"PoolCreationError"],[3,"ThreadPool"]]},\
+"main":{"doc":"","t":[5,5],"n":["handle_stream","main"],"q":["main",""],"d":["",""],"i":[0,0],"f":[[[["tcpstream",3]]],[[]]],"p":[]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};

@@ -1,0 +1,1 @@
+E:\LearningNotes\Rust\Code\19_advanced_features\advanced_trait\new_type\target\debug\new_type.exe: E:\LearningNotes\Rust\Code\19_advanced_features\advanced_trait\new_type\src\lib.rs E:\LearningNotes\Rust\Code\19_advanced_features\advanced_trait\new_type\src\main.rs
