@@ -17,6 +17,8 @@
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/super_trait/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/消歧义/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/fully_qualified_syntax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/macro/vec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_Web_Server/hello/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_lifetime/lifetimes/daling_references/src/hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/merge_sort/target" />
@@ -32,6 +34,8 @@
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/fully_qualified_syntax/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/super_trait/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_trait/new_type/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/macro/vec/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_Web_Server/hello/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
